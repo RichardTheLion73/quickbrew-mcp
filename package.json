@@ -1,0 +1,14 @@
+{
+  "name": "@richardthelion73/quickbrew-mcp",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "An official MCP server for the Quickbrew web extraction API",
+  "bin": {
+    "quickbrew-mcp": "index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "ethers": "^6.0.0",
+    "node-fetch": "^3.0.0"
+  }
+}
