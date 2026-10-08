@@ -1,11 +1,19 @@
 {
   "name": "@richardthelion73/quickbrew-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "Model Context Protocol (MCP) server for Quickbrew.io x402 data endpoints.",
   "type": "module",
-  "description": "An official MCP server for the Quickbrew web extraction API",
   "bin": {
     "quickbrew-mcp": "index.js"
   },
+  "keywords": [
+    "mcp-server",
+    "mcp",
+    "x402",
+    "web-scraping",
+    "ai-agent",
+    "quickbrew"
+  ],
   "dependencies": {
     "@modelcontextprotocol/sdk": "latest",
     "ethers": "^6.0.0",
