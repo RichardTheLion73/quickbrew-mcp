@@ -7,6 +7,11 @@
     "quickbrew-mcp": "index.js"
   },
   "mcpName": "io.github.RichardTheLion73/quickbrew-mcp",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
   "keywords": [
     "mcp-server",
     "mcp",
