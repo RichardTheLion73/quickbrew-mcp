@@ -1,6 +1,7 @@
 {
   "name": "@richardthelion73/quickbrew-mcp",
   "version": "1.0.2",
+  "mcpName": "io.github.RichardTheLion73/quickbrew-mcp",
   "description": "Model Context Protocol (MCP) server for Quickbrew.io x402 data endpoints.",
   "type": "module",
   "bin": {
